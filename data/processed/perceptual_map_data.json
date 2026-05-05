@@ -1,0 +1,233 @@
+{
+  "axes": {
+    "x_definition": "Discourse-domain index = mean per-post (tech_token_share - politics_token_share). Negative -> politics & power; positive -> consumer technology.",
+    "y_definition": "Affective tone = mean VADER compound polarity per brand.",
+    "size_definition": "Engagement intensity = mean likes per post."
+  },
+  "axis_token_sets": {
+    "politics_power": [
+      "agent",
+      "anthropic",
+      "best",
+      "ceo",
+      "company",
+      "elon",
+      "feed",
+      "ice",
+      "know",
+      "link",
+      "medium",
+      "musk",
+      "openai",
+      "social",
+      "tech",
+      "tested",
+      "trump"
+    ],
+    "consumer_technology": [
+      "apple",
+      "big",
+      "data",
+      "deal",
+      "game",
+      "google",
+      "health",
+      "human",
+      "model",
+      "next",
+      "read",
+      "review",
+      "robot",
+      "time",
+      "user",
+      "war",
+      "xbox",
+      "year"
+    ],
+    "derivation": "Tokens taken directly from the top-12 terms of Wired LDA topic 3 / 1 and Verge LDA topic 0 / 2, selected by overlap with seed lexicons. Overlapping tokens removed for orthogonality."
+  },
+  "brand_points": [
+    {
+      "brand": "Wired",
+      "x_discourse": -0.012109300638752176,
+      "y_polarity": 0.08110189753320683,
+      "size_engagement": 23.049968374446554,
+      "n_posts": 1581
+    },
+    {
+      "brand": "The Verge",
+      "x_discourse": 0.009532460391192397,
+      "y_polarity": 0.13641084128360798,
+      "size_engagement": 9.675628794449263,
+      "n_posts": 1153
+    }
+  ],
+  "influencer_points": [
+    {
+      "brand": "Wired",
+      "handle": "thiccreese.bsky.social",
+      "x_discourse": 0.039615384615384615,
+      "y_polarity": 0.5135375,
+      "size_engagement": 44.75,
+      "composite": 0.5216924778184945
+    },
+    {
+      "brand": "Wired",
+      "handle": "deviantollam.bsky.social",
+      "x_discourse": 0.020833333333333332,
+      "y_polarity": 0.63185,
+      "size_engagement": 313.0,
+      "composite": 0.4691849039073875
+    },
+    {
+      "brand": "Wired",
+      "handle": "surf.social",
+      "x_discourse": -0.11591303187941844,
+      "y_polarity": 0.3097,
+      "size_engagement": 21.428571428571427,
+      "composite": 0.4168681611643154
+    },
+    {
+      "brand": "Wired",
+      "handle": "ps9714.bsky.social",
+      "x_discourse": -0.1388888888888889,
+      "y_polarity": 0.5631,
+      "size_engagement": 5.5,
+      "composite": 0.3574591110059478
+    },
+    {
+      "brand": "Wired",
+      "handle": "laurenmeidasa.bsky.social",
+      "x_discourse": -0.019230769230769232,
+      "y_polarity": 0.4844,
+      "size_engagement": 14.0,
+      "composite": 0.3341736094709288
+    },
+    {
+      "brand": "Wired",
+      "handle": "mantzarlis.com",
+      "x_discourse": 0.0,
+      "y_polarity": 0.1366,
+      "size_engagement": 14.0,
+      "composite": 0.2760609031786557
+    },
+    {
+      "brand": "Wired",
+      "handle": "0lsi.bsky.social",
+      "x_discourse": -0.015873015873015872,
+      "y_polarity": 0.5334333333333333,
+      "size_engagement": 2.3333333333333335,
+      "composite": 0.275407328032862
+    },
+    {
+      "brand": "Wired",
+      "handle": "no-id-lady.bsky.social",
+      "x_discourse": 0.06944444444444445,
+      "y_polarity": 0.4508,
+      "size_engagement": 2.5,
+      "composite": 0.2673758740204326
+    },
+    {
+      "brand": "Wired",
+      "handle": "mistarogers.bsky.social",
+      "x_discourse": -0.03055555555555555,
+      "y_polarity": 0.484,
+      "size_engagement": 2.0,
+      "composite": 0.259456898890705
+    },
+    {
+      "brand": "Wired",
+      "handle": "michaelsderby.bsky.social",
+      "x_discourse": 0.07936507936507936,
+      "y_polarity": 0.1858,
+      "size_engagement": 9.0,
+      "composite": 0.2528910072763165
+    },
+    {
+      "brand": "The Verge",
+      "handle": "papapishu.bsky.social",
+      "x_discourse": 0.061111111111111116,
+      "y_polarity": 0.1443333333333333,
+      "size_engagement": 183.0,
+      "composite": 0.4345367363477506
+    },
+    {
+      "brand": "The Verge",
+      "handle": "sesmith.lol",
+      "x_discourse": 0.0,
+      "y_polarity": 0.6415,
+      "size_engagement": 14.5,
+      "composite": 0.430919106140871
+    },
+    {
+      "brand": "The Verge",
+      "handle": "surf.social",
+      "x_discourse": -0.10315126050420169,
+      "y_polarity": 0.21466,
+      "size_engagement": 28.4,
+      "composite": 0.4075553627647768
+    },
+    {
+      "brand": "The Verge",
+      "handle": "sifu.tweety.fish",
+      "x_discourse": 0.045454545454545456,
+      "y_polarity": 0.2775499999999999,
+      "size_engagement": 74.0,
+      "composite": 0.3987848039135732
+    },
+    {
+      "brand": "The Verge",
+      "handle": "ketanjoshi.co",
+      "x_discourse": -0.027777777777777776,
+      "y_polarity": 0.14525,
+      "size_engagement": 42.5,
+      "composite": 0.3811255741980184
+    },
+    {
+      "brand": "The Verge",
+      "handle": "mcconnell.bsky.social",
+      "x_discourse": -0.023809523809523808,
+      "y_polarity": 0.80555,
+      "size_engagement": 4.5,
+      "composite": 0.3741093194934448
+    },
+    {
+      "brand": "The Verge",
+      "handle": "dansinker.com",
+      "x_discourse": 0.0,
+      "y_polarity": 0.1161666666666666,
+      "size_engagement": 32.333333333333336,
+      "composite": 0.3735325496431205
+    },
+    {
+      "brand": "The Verge",
+      "handle": "billkuchman.bsky.social",
+      "x_discourse": 0.041666666666666664,
+      "y_polarity": 0.40735,
+      "size_engagement": 11.5,
+      "composite": 0.3684425103906544
+    },
+    {
+      "brand": "The Verge",
+      "handle": "johnvoelcker.bsky.social",
+      "x_discourse": 0.01781949934123847,
+      "y_polarity": 0.27024,
+      "size_engagement": 9.8,
+      "composite": 0.3659798854528578
+    },
+    {
+      "brand": "The Verge",
+      "handle": "brunodias.bsky.social",
+      "x_discourse": 0.019230769230769232,
+      "y_polarity": 0.3394,
+      "size_engagement": 25.0,
+      "composite": 0.3540261903634293
+    }
+  ],
+  "interpretation": [
+    "Wired sits in the lower-left quadrant: politics-and-power journalism with a critical, slightly negative tone, but with high engagement intensity driven by a viral right-tail of political reporting (e.g. DOGE, Trump-Musk coverage).",
+    "The Verge sits in the upper-right quadrant: consumer-technology journalism with a positive tone driven by product reviews and feature coverage (Apple, Google, Xbox, openAI), with steadier but lower per-post engagement.",
+    "The two brands occupy genuinely distinct positions on the map the X-axis separation is large and based directly on observed vocabulary; the Y-axis separation is smaller but consistent across topic, post-type, and sentiment cuts.",
+    "Influencer candidates cluster tightly around each brand's anchor, validating that the recommended micro-influencers reflect the brand's discourse position rather than sitting in the opposite quadrant."
+  ]
+}

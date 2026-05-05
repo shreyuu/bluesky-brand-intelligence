@@ -1,0 +1,95 @@
+{
+  "brand_summary": [
+    {
+      "brand": "The Verge",
+      "n_posts": 1153,
+      "mean_compound": 0.136,
+      "median_compound": 0.008,
+      "pct_positive": 49.35,
+      "pct_neutral": 23.417,
+      "pct_negative": 27.233
+    },
+    {
+      "brand": "Wired",
+      "n_posts": 1581,
+      "mean_compound": 0.081,
+      "median_compound": 0.0,
+      "pct_positive": 43.833,
+      "pct_neutral": 26.629,
+      "pct_negative": 29.538
+    }
+  ],
+  "engagement_by_sentiment": [
+    {
+      "brand": "The Verge",
+      "sentiment_label": "negative",
+      "n_posts": 314,
+      "mean_likes": 12.299363057324841,
+      "median_likes": 1.0,
+      "p95_likes": 62.399999999999864,
+      "mean_reposts": 3.3312101910828025,
+      "median_reposts": 0.0,
+      "p95_reposts": 13.699999999999932
+    },
+    {
+      "brand": "The Verge",
+      "sentiment_label": "neutral",
+      "n_posts": 270,
+      "mean_likes": 6.9,
+      "median_likes": 0.0,
+      "p95_likes": 19.0,
+      "mean_reposts": 2.066666666666667,
+      "median_reposts": 0.0,
+      "p95_reposts": 3.0
+    },
+    {
+      "brand": "The Verge",
+      "sentiment_label": "positive",
+      "n_posts": 569,
+      "mean_likes": 9.54481546572935,
+      "median_likes": 1.0,
+      "p95_likes": 45.80000000000007,
+      "mean_reposts": 1.7293497363796133,
+      "median_reposts": 0.0,
+      "p95_reposts": 7.0
+    },
+    {
+      "brand": "Wired",
+      "sentiment_label": "negative",
+      "n_posts": 467,
+      "mean_likes": 45.50321199143469,
+      "median_likes": 0.0,
+      "p95_likes": 100.09999999999997,
+      "mean_reposts": 17.4796573875803,
+      "median_reposts": 0.0,
+      "p95_reposts": 29.399999999999977
+    },
+    {
+      "brand": "Wired",
+      "sentiment_label": "neutral",
+      "n_posts": 421,
+      "mean_likes": 8.173396674584323,
+      "median_likes": 0.0,
+      "p95_likes": 20.0,
+      "mean_reposts": 2.323040380047506,
+      "median_reposts": 0.0,
+      "p95_reposts": 6.0
+    },
+    {
+      "brand": "Wired",
+      "sentiment_label": "positive",
+      "n_posts": 693,
+      "mean_likes": 16.956709956709958,
+      "median_likes": 0.0,
+      "p95_likes": 52.0,
+      "mean_reposts": 4.210678210678211,
+      "median_reposts": 0.0,
+      "p95_reposts": 15.0
+    }
+  ],
+  "interpretation_notes": [
+    "VADER was applied to lightly cleaned text so punctuation/emphasis cues were preserved.",
+    "Compound thresholds follow common VADER convention: <= -0.05 negative, >= 0.05 positive.",
+    "Author-level mean polarity is saved for micro-influencer screening."
+  ]
+}

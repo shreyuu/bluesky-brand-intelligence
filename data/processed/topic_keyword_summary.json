@@ -1,0 +1,522 @@
+{
+  "top_keywords": [
+    {
+      "brand": "Wired",
+      "token": "magazine",
+      "count": 314
+    },
+    {
+      "brand": "Wired",
+      "token": "report",
+      "count": 219
+    },
+    {
+      "brand": "Wired",
+      "token": "new",
+      "count": 137
+    },
+    {
+      "brand": "Wired",
+      "token": "article",
+      "count": 119
+    },
+    {
+      "brand": "Wired",
+      "token": "story",
+      "count": 111
+    },
+    {
+      "brand": "Wired",
+      "token": "trump",
+      "count": 94
+    },
+    {
+      "brand": "Wired",
+      "token": "company",
+      "count": 88
+    },
+    {
+      "brand": "Wired",
+      "token": "people",
+      "count": 84
+    },
+    {
+      "brand": "Wired",
+      "token": "data",
+      "count": 81
+    },
+    {
+      "brand": "Wired",
+      "token": "read",
+      "count": 78
+    },
+    {
+      "brand": "Wired",
+      "token": "best",
+      "count": 71
+    },
+    {
+      "brand": "Wired",
+      "token": "year",
+      "count": 70
+    },
+    {
+      "brand": "Wired",
+      "token": "tech",
+      "count": 70
+    },
+    {
+      "brand": "Wired",
+      "token": "musk",
+      "count": 67
+    },
+    {
+      "brand": "Wired",
+      "token": "doge",
+      "count": 61
+    },
+    {
+      "brand": "Wired",
+      "token": "say",
+      "count": 59
+    },
+    {
+      "brand": "Wired",
+      "token": "ice",
+      "count": 59
+    },
+    {
+      "brand": "Wired",
+      "token": "openai",
+      "count": 56
+    },
+    {
+      "brand": "Wired",
+      "token": "government",
+      "count": 55
+    },
+    {
+      "brand": "Wired",
+      "token": "work",
+      "count": 54
+    },
+    {
+      "brand": "Wired",
+      "token": "social",
+      "count": 54
+    },
+    {
+      "brand": "Wired",
+      "token": "medium",
+      "count": 54
+    },
+    {
+      "brand": "Wired",
+      "token": "reporting",
+      "count": 50
+    },
+    {
+      "brand": "Wired",
+      "token": "agent",
+      "count": 48
+    },
+    {
+      "brand": "Wired",
+      "token": "know",
+      "count": 47
+    },
+    {
+      "brand": "Wired",
+      "token": "first",
+      "count": 47
+    },
+    {
+      "brand": "Wired",
+      "token": "good",
+      "count": 46
+    },
+    {
+      "brand": "Wired",
+      "token": "right",
+      "count": 45
+    },
+    {
+      "brand": "Wired",
+      "token": "anthropic",
+      "count": 45
+    },
+    {
+      "brand": "Wired",
+      "token": "elon",
+      "count": 45
+    },
+    {
+      "brand": "The Verge",
+      "token": "article",
+      "count": 375
+    },
+    {
+      "brand": "The Verge",
+      "token": "report",
+      "count": 100
+    },
+    {
+      "brand": "The Verge",
+      "token": "according",
+      "count": 97
+    },
+    {
+      "brand": "The Verge",
+      "token": "story",
+      "count": 90
+    },
+    {
+      "brand": "The Verge",
+      "token": "read",
+      "count": 80
+    },
+    {
+      "brand": "The Verge",
+      "token": "people",
+      "count": 76
+    },
+    {
+      "brand": "The Verge",
+      "token": "new",
+      "count": 75
+    },
+    {
+      "brand": "The Verge",
+      "token": "time",
+      "count": 66
+    },
+    {
+      "brand": "The Verge",
+      "token": "tech",
+      "count": 62
+    },
+    {
+      "brand": "The Verge",
+      "token": "link",
+      "count": 62
+    },
+    {
+      "brand": "The Verge",
+      "token": "company",
+      "count": 59
+    },
+    {
+      "brand": "The Verge",
+      "token": "good",
+      "count": 59
+    },
+    {
+      "brand": "The Verge",
+      "token": "google",
+      "count": 57
+    },
+    {
+      "brand": "The Verge",
+      "token": "say",
+      "count": 53
+    },
+    {
+      "brand": "The Verge",
+      "token": "year",
+      "count": 52
+    },
+    {
+      "brand": "The Verge",
+      "token": "review",
+      "count": 50
+    },
+    {
+      "brand": "The Verge",
+      "token": "work",
+      "count": 50
+    },
+    {
+      "brand": "The Verge",
+      "token": "xbox",
+      "count": 49
+    },
+    {
+      "brand": "The Verge",
+      "token": "news",
+      "count": 49
+    },
+    {
+      "brand": "The Verge",
+      "token": "apple",
+      "count": 49
+    },
+    {
+      "brand": "The Verge",
+      "token": "game",
+      "count": 43
+    },
+    {
+      "brand": "The Verge",
+      "token": "know",
+      "count": 42
+    },
+    {
+      "brand": "The Verge",
+      "token": "piece",
+      "count": 40
+    },
+    {
+      "brand": "The Verge",
+      "token": "think",
+      "count": 40
+    },
+    {
+      "brand": "The Verge",
+      "token": "need",
+      "count": 39
+    },
+    {
+      "brand": "The Verge",
+      "token": "model",
+      "count": 36
+    },
+    {
+      "brand": "The Verge",
+      "token": "source",
+      "count": 35
+    },
+    {
+      "brand": "The Verge",
+      "token": "trump",
+      "count": 35
+    },
+    {
+      "brand": "The Verge",
+      "token": "look",
+      "count": 35
+    },
+    {
+      "brand": "The Verge",
+      "token": "musk",
+      "count": 34
+    }
+  ],
+  "lda_topics": [
+    {
+      "brand": "Wired",
+      "topic_id": 0,
+      "top_terms": "magazine, report, doge, read, story, medium, article, people, surveillance, new, data, government",
+      "term_weights": "0.048, 0.012, 0.011, 0.011, 0.011, 0.011, 0.011, 0.010, 0.010, 0.010, 0.010, 0.008"
+    },
+    {
+      "brand": "Wired",
+      "topic_id": 1,
+      "top_terms": "new, data, war, article, report, health, robot, model, deal, user, human, big",
+      "term_weights": "0.014, 0.012, 0.010, 0.010, 0.010, 0.009, 0.009, 0.009, 0.009, 0.008, 0.008, 0.008"
+    },
+    {
+      "brand": "Wired",
+      "topic_id": 2,
+      "top_terms": "magazine, story, reporting, work, video, youtu, feed, content, generated, review, internet, good",
+      "term_weights": "0.029, 0.020, 0.014, 0.014, 0.010, 0.010, 0.009, 0.008, 0.008, 0.008, 0.008, 0.007"
+    },
+    {
+      "brand": "Wired",
+      "topic_id": 3,
+      "top_terms": "report, company, openai, new, best, musk, anthropic, elon, tested, ceo, agent, ice",
+      "term_weights": "0.027, 0.020, 0.017, 0.016, 0.013, 0.012, 0.012, 0.011, 0.008, 0.008, 0.008, 0.007"
+    },
+    {
+      "brand": "Wired",
+      "topic_id": 4,
+      "top_terms": "report, trump, magazine, article, tech, code, read, meta, musk, new, source, president",
+      "term_weights": "0.026, 0.020, 0.015, 0.013, 0.011, 0.010, 0.010, 0.009, 0.009, 0.008, 0.007, 0.006"
+    },
+    {
+      "brand": "The Verge",
+      "topic_id": 0,
+      "top_terms": "article, report, link, feed, medium, know, tech, people, trump, social, openai, new",
+      "term_weights": "0.052, 0.019, 0.015, 0.012, 0.012, 0.012, 0.011, 0.011, 0.011, 0.009, 0.008, 0.007"
+    },
+    {
+      "brand": "The Verge",
+      "topic_id": 1,
+      "top_terms": "article, piece, report, story, tech, according, meta, people, read, company, time, musk",
+      "term_weights": "0.029, 0.018, 0.017, 0.016, 0.012, 0.012, 0.012, 0.011, 0.011, 0.011, 0.011, 0.010"
+    },
+    {
+      "brand": "The Verge",
+      "topic_id": 2,
+      "top_terms": "article, apple, time, xbox, read, game, new, review, people, google, next, year",
+      "term_weights": "0.037, 0.019, 0.018, 0.015, 0.013, 0.012, 0.012, 0.012, 0.011, 0.011, 0.010, 0.010"
+    },
+    {
+      "brand": "The Verge",
+      "topic_id": 3,
+      "top_terms": "article, say, according, user, good, story, podcast, model, version, game, subscriber, week",
+      "term_weights": "0.030, 0.013, 0.012, 0.012, 0.011, 0.010, 0.009, 0.009, 0.009, 0.008, 0.008, 0.007"
+    },
+    {
+      "brand": "The Verge",
+      "topic_id": 4,
+      "top_terms": "article, google, new, according, need, phone, story, openai, talking, work, search, headline",
+      "term_weights": "0.040, 0.018, 0.016, 0.015, 0.012, 0.008, 0.008, 0.008, 0.008, 0.008, 0.007, 0.007"
+    }
+  ],
+  "topic_sentiment_engagement": [
+    {
+      "brand": "The Verge",
+      "dominant_topic": 0,
+      "n_posts": 249,
+      "mean_topic_prob": 0.892,
+      "mean_compound": 0.123,
+      "median_compound": 0.0,
+      "mean_likes": 8.004,
+      "median_likes": 1.0,
+      "mean_reposts": 2.157,
+      "median_reposts": 0.0
+    },
+    {
+      "brand": "The Verge",
+      "dominant_topic": 1,
+      "n_posts": 236,
+      "mean_topic_prob": 0.874,
+      "mean_compound": 0.141,
+      "median_compound": 0.082,
+      "mean_likes": 8.106,
+      "median_likes": 1.0,
+      "mean_reposts": 1.661,
+      "median_reposts": 0.0
+    },
+    {
+      "brand": "The Verge",
+      "dominant_topic": 2,
+      "n_posts": 244,
+      "mean_topic_prob": 0.885,
+      "mean_compound": 0.116,
+      "median_compound": 0.0,
+      "mean_likes": 7.963,
+      "median_likes": 1.0,
+      "mean_reposts": 1.578,
+      "median_reposts": 0.0
+    },
+    {
+      "brand": "The Verge",
+      "dominant_topic": 3,
+      "n_posts": 198,
+      "mean_topic_prob": 0.887,
+      "mean_compound": 0.183,
+      "median_compound": 0.202,
+      "mean_likes": 10.444,
+      "median_likes": 1.0,
+      "mean_reposts": 1.54,
+      "median_reposts": 0.0
+    },
+    {
+      "brand": "The Verge",
+      "dominant_topic": 4,
+      "n_posts": 223,
+      "mean_topic_prob": 0.88,
+      "mean_compound": 0.132,
+      "median_compound": 0.0,
+      "mean_likes": 14.489,
+      "median_likes": 1.0,
+      "mean_reposts": 4.345,
+      "median_reposts": 0.0
+    },
+    {
+      "brand": "Wired",
+      "dominant_topic": 0,
+      "n_posts": 482,
+      "mean_topic_prob": 0.84,
+      "mean_compound": 0.085,
+      "median_compound": 0.0,
+      "mean_likes": 48.434,
+      "median_likes": 1.0,
+      "mean_reposts": 17.373,
+      "median_reposts": 0.0
+    },
+    {
+      "brand": "Wired",
+      "dominant_topic": 1,
+      "n_posts": 270,
+      "mean_topic_prob": 0.835,
+      "mean_compound": 0.08,
+      "median_compound": 0.0,
+      "mean_likes": 10.407,
+      "median_likes": 0.0,
+      "mean_reposts": 2.796,
+      "median_reposts": 0.0
+    },
+    {
+      "brand": "Wired",
+      "dominant_topic": 2,
+      "n_posts": 281,
+      "mean_topic_prob": 0.859,
+      "mean_compound": 0.081,
+      "median_compound": 0.0,
+      "mean_likes": 16.577,
+      "median_likes": 0.0,
+      "mean_reposts": 3.509,
+      "median_reposts": 0.0
+    },
+    {
+      "brand": "Wired",
+      "dominant_topic": 3,
+      "n_posts": 282,
+      "mean_topic_prob": 0.845,
+      "mean_compound": 0.119,
+      "median_compound": 0.052,
+      "mean_likes": 11.209,
+      "median_likes": 0.0,
+      "mean_reposts": 4.131,
+      "median_reposts": 0.0
+    },
+    {
+      "brand": "Wired",
+      "dominant_topic": 4,
+      "n_posts": 257,
+      "mean_topic_prob": 0.852,
+      "mean_compound": 0.032,
+      "median_compound": 0.0,
+      "mean_likes": 9.591,
+      "median_likes": 0.0,
+      "mean_reposts": 3.031,
+      "median_reposts": 0.0
+    }
+  ],
+  "coherence_by_k": [
+    {
+      "k": 4,
+      "Wired": 0.36236453380043754,
+      "The Verge": 0.2836324451510306
+    },
+    {
+      "k": 5,
+      "Wired": 0.3369778015243753,
+      "The Verge": 0.3508044416685879
+    },
+    {
+      "k": 6,
+      "Wired": 0.3377353691590503,
+      "The Verge": 0.369131019587509
+    },
+    {
+      "k": 7,
+      "Wired": 0.3559390244033648,
+      "The Verge": 0.3536929420213834
+    },
+    {
+      "k": 8,
+      "Wired": 0.36909757821351885,
+      "The Verge": 0.3299989003502999
+    }
+  ],
+  "method_notes": [
+    "Topic modelling uses text_clean_no_brand so brand names do not dominate topics.",
+    "Dictionary terms are filtered using no_below=5 and no_above=0.60.",
+    "Keyword co-occurrence uses unique tokens per post and retains edges with at least three co-occurrences.",
+    "Generic journalistic and platform-format terms are removed before network construction.",
+    "Only the largest connected component is plotted to improve readability."
+  ]
+}

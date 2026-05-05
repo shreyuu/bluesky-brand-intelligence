@@ -1,0 +1,28 @@
+{
+  "wired": {
+    "start": 1758,
+    "after_language": 1758,
+    "after_uri_dedup": 1758,
+    "after_author_text_dedup": 1729,
+    "after_min_length": 1628,
+    "after_spam_filter": 1628,
+    "after_timestamp_parse": 1581,
+    "final": 1581
+  },
+  "the_verge": {
+    "start": 1244,
+    "after_language": 1244,
+    "after_uri_dedup": 1244,
+    "after_author_text_dedup": 1240,
+    "after_min_length": 1161,
+    "after_spam_filter": 1161,
+    "after_timestamp_parse": 1153,
+    "final": 1153
+  },
+  "notes": [
+    "English-only posts retained based on Bluesky langs metadata.",
+    "Posts deduplicated by URI and by author/text to reduce cross-query and repost-spam duplication.",
+    "Minimum cleaned length of 3 tokens removes link-only and near-empty posts.",
+    "Three text variants saved: text_raw, text_for_sentiment, text_clean/text_clean_no_brand."
+  ]
+}

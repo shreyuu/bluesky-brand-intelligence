@@ -1,0 +1,51 @@
+{
+  "collection_run_at": "2026-04-30T13:20:53.614364+00:00",
+  "collected_by_handle": "shreyuu-dev.bsky.social",
+  "language_filter": "en",
+  "sort_order": "latest",
+  "geographic_scope": "global (Bluesky search does not expose location filtering)",
+  "brand_pair_rationale": "Wired vs The Verge selected as direct competitors in technology journalism with distinct editorial positioning (long-form/culture vs product-review/news-cycle). Brand pair was changed from an initial Hugging Face vs Replicate selection after pilot data showed that 'replicate' as a common English verb produced unresolvable lexical collision under any reasonable precision/recall trade-off.",
+  "brands": {
+    "wired": {
+      "queries": [
+        "wired.com",
+        "@wired.com",
+        "\"wired magazine\"",
+        "\"on wired\"",
+        "\"via wired\"",
+        "\"wired says\"",
+        "\"wired reports\"",
+        "\"wired story\"",
+        "\"wired article\"",
+        "\"wired piece\""
+      ],
+      "n_posts": 2500,
+      "n_unique_users": 1595,
+      "date_range": [
+        "2023-09-21 16:45:42.951000+00:00",
+        "2026-04-30 13:06:32.153000+00:00"
+      ],
+      "n_profiles_fetched": 1595
+    },
+    "theverge": {
+      "queries": [
+        "theverge.com",
+        "@theverge.com",
+        "\"the verge\"",
+        "\"verge says\"",
+        "\"verge reports\"",
+        "\"verge story\"",
+        "\"verge article\"",
+        "\"verge review\"",
+        "\"according to the verge\""
+      ],
+      "n_posts": 1946,
+      "n_unique_users": 1525,
+      "date_range": [
+        "2023-07-03 17:39:11.855000+00:00",
+        "2026-04-30 13:17:34.448000+00:00"
+      ],
+      "n_profiles_fetched": 1525
+    }
+  }
+}

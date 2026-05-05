@@ -1,0 +1,350 @@
+{
+  "engagement_summary": {
+    "n_posts": {
+      "The Verge": 1153,
+      "Wired": 1578
+    },
+    "mean_likes": {
+      "The Verge": 9.65,
+      "Wired": 23.11
+    },
+    "median_likes": {
+      "The Verge": 1.0,
+      "Wired": 0.0
+    },
+    "p95_likes": {
+      "The Verge": 36.4,
+      "Wired": 51.0
+    },
+    "max_likes": {
+      "The Verge": 870,
+      "Wired": 6074
+    },
+    "mean_reposts": {
+      "The Verge": 2.24,
+      "Wired": 7.65
+    },
+    "median_reposts": {
+      "The Verge": 0.0,
+      "Wired": 0.0
+    },
+    "p95_reposts": {
+      "The Verge": 7.0,
+      "Wired": 14.0
+    },
+    "max_reposts": {
+      "The Verge": 389,
+      "Wired": 2278
+    },
+    "mean_replies": {
+      "The Verge": 0.73,
+      "Wired": 1.1
+    },
+    "median_replies": {
+      "The Verge": 0.0,
+      "Wired": 0.0
+    }
+  },
+  "post_type_summary": {
+    "The Verge|Original": {
+      "n": 731,
+      "mean_likes": 12.44,
+      "median_likes": 1.0,
+      "mean_reposts": 3.17,
+      "median_reposts": 0.0,
+      "mean_replies": 0.83,
+      "median_replies": 0.0
+    },
+    "The Verge|Reply": {
+      "n": 422,
+      "mean_likes": 4.81,
+      "median_likes": 1.0,
+      "mean_reposts": 0.61,
+      "median_reposts": 0.0,
+      "mean_replies": 0.55,
+      "median_replies": 0.0
+    },
+    "Wired|Original": {
+      "n": 1262,
+      "mean_likes": 27.65,
+      "median_likes": 0.0,
+      "mean_reposts": 9.42,
+      "median_reposts": 0.0,
+      "mean_replies": 1.25,
+      "median_replies": 0.0
+    },
+    "Wired|Reply": {
+      "n": 316,
+      "mean_likes": 4.99,
+      "median_likes": 1.0,
+      "mean_reposts": 0.6,
+      "median_reposts": 0.0,
+      "mean_replies": 0.52,
+      "median_replies": 0.0
+    }
+  },
+  "wired_top_hashtags": [
+    [
+      "#devnews",
+      340
+    ],
+    [
+      "#machinelearning",
+      119
+    ],
+    [
+      "#tutorial",
+      58
+    ],
+    [
+      "#tools",
+      32
+    ],
+    [
+      "#csulbsoc",
+      18
+    ],
+    [
+      "#security",
+      17
+    ],
+    [
+      "#ai",
+      15
+    ],
+    [
+      "#wired",
+      12
+    ],
+    [
+      "#webdevelopment",
+      12
+    ],
+    [
+      "#devops",
+      11
+    ],
+    [
+      "#tech",
+      6
+    ],
+    [
+      "#edtech",
+      6
+    ],
+    [
+      "#systems",
+      6
+    ],
+    [
+      "#doge",
+      5
+    ],
+    [
+      "#edusky",
+      5
+    ]
+  ],
+  "verge_top_hashtags": [
+    [
+      "#ai",
+      20
+    ],
+    [
+      "#csulbsoc",
+      11
+    ],
+    [
+      "#news",
+      9
+    ],
+    [
+      "#openai",
+      5
+    ],
+    [
+      "#theverge",
+      4
+    ],
+    [
+      "#musk",
+      4
+    ],
+    [
+      "#meta",
+      4
+    ],
+    [
+      "#teslatakedown",
+      3
+    ],
+    [
+      "#cybersecurity",
+      3
+    ],
+    [
+      "#socialmedia",
+      3
+    ],
+    [
+      "#linux",
+      3
+    ],
+    [
+      "#media",
+      3
+    ],
+    [
+      "#anthropic",
+      2
+    ],
+    [
+      "#x",
+      2
+    ],
+    [
+      "#thevergecast",
+      2
+    ]
+  ],
+  "wired_top_external_domains": [
+    [
+      "flarestart.com",
+      340
+    ],
+    [
+      "youtu.be",
+      28
+    ],
+    [
+      "youtube.com",
+      11
+    ],
+    [
+      "tiktok.com",
+      9
+    ],
+    [
+      "nytimes.com",
+      8
+    ],
+    [
+      "talkingbiznews.com",
+      8
+    ],
+    [
+      "techcrunch.com",
+      8
+    ],
+    [
+      "noahshachtman.bsky.social",
+      7
+    ],
+    [
+      "futurism.com",
+      7
+    ],
+    [
+      "apple.news",
+      6
+    ],
+    [
+      "oversightdemocrats.bsky.social",
+      6
+    ],
+    [
+      "theatlantic.com",
+      5
+    ],
+    [
+      "archive.ph",
+      5
+    ],
+    [
+      "robertsilverman.bsky.social",
+      5
+    ],
+    [
+      "taylorlorenz.bsky.social",
+      5
+    ]
+  ],
+  "verge_top_external_domains": [
+    [
+      "reckless.bsky.social",
+      61
+    ],
+    [
+      "davidpierce.xyz",
+      28
+    ],
+    [
+      "index.xml",
+      14
+    ],
+    [
+      "reuters.com",
+      14
+    ],
+    [
+      "youtu.be",
+      13
+    ],
+    [
+      "lopatto.bsky.social",
+      10
+    ],
+    [
+      "sarahjeong.bsky.social",
+      8
+    ],
+    [
+      "channelnewsasia.com",
+      7
+    ],
+    [
+      "techcrunch.com",
+      6
+    ],
+    [
+      "youtube.com",
+      6
+    ],
+    [
+      "laurenfeiner.bsky.social",
+      5
+    ],
+    [
+      "404media.co",
+      5
+    ],
+    [
+      "arstechnica.com",
+      5
+    ],
+    [
+      "seanhollister.bsky.social",
+      5
+    ],
+    [
+      "discord.com",
+      5
+    ]
+  ],
+  "date_range": {
+    "wired": [
+      "2023-12-13 16:21:44.692000",
+      "2026-04-30 02:28:41.355146"
+    ],
+    "verge": [
+      "2023-07-03 17:39:11.855000",
+      "2026-04-30 07:01:55.333000"
+    ]
+  },
+  "key_observations": [
+    "Wired generates substantially higher engagement per post than The Verge (mean likes 22.3 vs 9.6; mean reposts 6.7 vs 2.2), even though The Verge has marginally more posts and a similar URL-sharing rate.",
+    "Wired discourse is more conversational (46.9% replies) vs The Verge (37.4% replies); Verge mentions skew toward broadcast-with-hashtags (10.9% hashtag rate vs Wired's 6.1%).",
+    "Both brands show low posts/author (1.1\u20131.3), characteristic of news-driven mention behaviour rather than a dedicated fan community.",
+    "Median post length is similar across brands (16 vs 14 clean tokens), so length differences do not explain the engagement gap."
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "n_posts": {
+    "wired": 1581,
+    "the_verge": 1153,
+    "combined": 2673
+  },
+  "n_authors": {
+    "wired": 893,
+    "the_verge": 898
+  },
+  "date_ranges": {
+    "wired": [
+      "2023-12-13 16:21:44.692000+00:00",
+      "2026-04-30 13:06:32.153000+00:00"
+    ],
+    "the_verge": [
+      "2023-07-03 17:39:11.855000+00:00",
+      "2026-04-30 13:05:35+00:00"
+    ]
+  },
+  "engagement_summary": [
+    {
+      "brand": "The Verge",
+      "n_posts": 1116,
+      "mean_likes": 9.95,
+      "median_likes": 1.0,
+      "p95_likes": 38.25,
+      "max_likes": 870,
+      "mean_reposts": 2.3,
+      "median_reposts": 0.0,
+      "p95_reposts": 7.0,
+      "max_reposts": 389,
+      "mean_replies": 0.74,
+      "median_replies": 0.0,
+      "p95_replies": 2.0,
+      "max_replies": 86
+    },
+    {
+      "brand": "Wired",
+      "n_posts": 1557,
+      "mean_likes": 23.4,
+      "median_likes": 0.0,
+      "p95_likes": 51.0,
+      "max_likes": 6074,
+      "mean_reposts": 7.73,
+      "median_reposts": 0.0,
+      "p95_reposts": 14.0,
+      "max_reposts": 2278,
+      "mean_replies": 1.11,
+      "median_replies": 0.0,
+      "p95_replies": 3.0,
+      "max_replies": 284
+    }
+  ],
+  "top_hashtags": [
+    {
+      "brand": "Wired",
+      "hashtag": "#devnews",
+      "count": 340
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#machinelearning",
+      "count": 119
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#tutorial",
+      "count": 58
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#tools",
+      "count": 32
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#csulbsoc",
+      "count": 18
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#security",
+      "count": 17
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#ai",
+      "count": 15
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#wired",
+      "count": 12
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#webdevelopment",
+      "count": 12
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#devops",
+      "count": 11
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#tech",
+      "count": 6
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#edtech",
+      "count": 6
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#systems",
+      "count": 6
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#doge",
+      "count": 5
+    },
+    {
+      "brand": "Wired",
+      "hashtag": "#edusky",
+      "count": 5
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#ai",
+      "count": 20
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#csulbsoc",
+      "count": 11
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#news",
+      "count": 9
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#openai",
+      "count": 5
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#theverge",
+      "count": 4
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#musk",
+      "count": 4
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#meta",
+      "count": 4
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#teslatakedown",
+      "count": 3
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#cybersecurity",
+      "count": 3
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#socialmedia",
+      "count": 3
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#linux",
+      "count": 3
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#media",
+      "count": 3
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#anthropic",
+      "count": 2
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#x",
+      "count": 2
+    },
+    {
+      "brand": "The Verge",
+      "hashtag": "#thevergecast",
+      "count": 2
+    }
+  ],
+  "top_domains": [
+    {
+      "brand": "Wired",
+      "domain": "flarestart.com",
+      "count": 340
+    },
+    {
+      "brand": "Wired",
+      "domain": "youtu.be",
+      "count": 28
+    },
+    {
+      "brand": "Wired",
+      "domain": "youtube.com",
+      "count": 11
+    },
+    {
+      "brand": "Wired",
+      "domain": "tiktok.com",
+      "count": 9
+    },
+    {
+      "brand": "Wired",
+      "domain": "nytimes.com",
+      "count": 8
+    },
+    {
+      "brand": "Wired",
+      "domain": "techcrunch.com",
+      "count": 8
+    },
+    {
+      "brand": "Wired",
+      "domain": "talkingbiznews.com",
+      "count": 7
+    },
+    {
+      "brand": "Wired",
+      "domain": "noahshachtman.bsky.social",
+      "count": 7
+    },
+    {
+      "brand": "Wired",
+      "domain": "futurism.com",
+      "count": 7
+    },
+    {
+      "brand": "Wired",
+      "domain": "apple.news",
+      "count": 6
+    },
+    {
+      "brand": "Wired",
+      "domain": "oversightdemocrats.bsky.social",
+      "count": 6
+    },
+    {
+      "brand": "Wired",
+      "domain": "theatlantic.com",
+      "count": 5
+    },
+    {
+      "brand": "Wired",
+      "domain": "archive.ph",
+      "count": 5
+    },
+    {
+      "brand": "Wired",
+      "domain": "robertsilverman.bsky.social",
+      "count": 5
+    },
+    {
+      "brand": "Wired",
+      "domain": "archive.is",
+      "count": 5
+    },
+    {
+      "brand": "The Verge",
+      "domain": "reckless.bsky.social",
+      "count": 61
+    },
+    {
+      "brand": "The Verge",
+      "domain": "davidpierce.xyz",
+      "count": 28
+    },
+    {
+      "brand": "The Verge",
+      "domain": "index.xml",
+      "count": 14
+    },
+    {
+      "brand": "The Verge",
+      "domain": "reuters.com",
+      "count": 14
+    },
+    {
+      "brand": "The Verge",
+      "domain": "youtu.be",
+      "count": 13
+    },
+    {
+      "brand": "The Verge",
+      "domain": "lopatto.bsky.social",
+      "count": 10
+    },
+    {
+      "brand": "The Verge",
+      "domain": "sarahjeong.bsky.social",
+      "count": 8
+    },
+    {
+      "brand": "The Verge",
+      "domain": "channelnewsasia.com",
+      "count": 7
+    },
+    {
+      "brand": "The Verge",
+      "domain": "techcrunch.com",
+      "count": 6
+    },
+    {
+      "brand": "The Verge",
+      "domain": "youtube.com",
+      "count": 6
+    },
+    {
+      "brand": "The Verge",
+      "domain": "laurenfeiner.bsky.social",
+      "count": 5
+    },
+    {
+      "brand": "The Verge",
+      "domain": "404media.co",
+      "count": 5
+    },
+    {
+      "brand": "The Verge",
+      "domain": "arstechnica.com",
+      "count": 5
+    },
+    {
+      "brand": "The Verge",
+      "domain": "seanhollister.bsky.social",
+      "count": 5
+    },
+    {
+      "brand": "The Verge",
+      "domain": "discord.com",
+      "count": 5
+    }
+  ],
+  "post_type_summary": {
+    "The Verge_original": {
+      "n_posts": 705,
+      "mean_likes": 12.92,
+      "mean_reposts": 3.28
+    },
+    "The Verge_reply": {
+      "n_posts": 411,
+      "mean_likes": 4.87,
+      "mean_reposts": 0.61
+    },
+    "Wired_original": {
+      "n_posts": 1244,
+      "mean_likes": 28.01,
+      "mean_reposts": 9.52
+    },
+    "Wired_reply": {
+      "n_posts": 313,
+      "mean_likes": 5.06,
+      "mean_reposts": 0.62
+    }
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "k_selected": {
+    "wired": 7,
+    "verge": 8
+  },
+  "coherence_scores": {
+    "wired": {
+      "4": 0.31308253142076287,
+      "5": 0.3275731763351032,
+      "6": 0.34224274641386704,
+      "7": 0.36594005282115943,
+      "8": 0.36289908164255313
+    },
+    "verge": {
+      "4": 0.26506375928770753,
+      "5": 0.3246347900007305,
+      "6": 0.33560261560872146,
+      "7": 0.37103769841880296,
+      "8": 0.37690480930542525
+    }
+  },
+  "topics": {
+    "wired": [
+      {
+        "topic_id": 0,
+        "top_terms": [
+          "magazine",
+          "article",
+          "medium",
+          "know",
+          "read",
+          "first",
+          "social",
+          "people",
+          "piece",
+          "company"
+        ]
+      },
+      {
+        "topic_id": 1,
+        "top_terms": [
+          "trump",
+          "iran",
+          "musk",
+          "report",
+          "elon",
+          "openai",
+          "content",
+          "internet",
+          "company",
+          "war"
+        ]
+      },
+      {
+        "topic_id": 2,
+        "top_terms": [
+          "data",
+          "story",
+          "magazine",
+          "report",
+          "coverage",
+          "agency",
+          "company",
+          "feed",
+          "reporting",
+          "doge"
+        ]
+      },
+      {
+        "topic_id": 3,
+        "top_terms": [
+          "code",
+          "story",
+          "new",
+          "report",
+          "magazine",
+          "read",
+          "promo",
+          "email",
+          "review",
+          "ice"
+        ]
+      },
+      {
+        "topic_id": 4,
+        "top_terms": [
+          "best",
+          "magazine",
+          "agent",
+          "article",
+          "tech",
+          "ice",
+          "right",
+          "tested",
+          "phone",
+          "report"
+        ]
+      },
+      {
+        "topic_id": 5,
+        "top_terms": [
+          "report",
+          "new",
+          "data",
+          "meta",
+          "government",
+          "doge",
+          "surveillance",
+          "access",
+          "video",
+          "employee"
+        ]
+      },
+      {
+        "topic_id": 6,
+        "top_terms": [
+          "report",
+          "work",
+          "magazine",
+          "security",
+          "trump",
+          "account",
+          "government",
+          "doge",
+          "maga",
+          "administration"
+        ]
+      }
+    ],
+    "verge": [
+      {
+        "topic_id": 0,
+        "top_terms": [
+          "article",
+          "report",
+          "free",
+          "people",
+          "new",
+          "feed",
+          "trump",
+          "link",
+          "podcasts",
+          "meta"
+        ]
+      },
+      {
+        "topic_id": 1,
+        "top_terms": [
+          "article",
+          "read",
+          "link",
+          "piece",
+          "phone",
+          "time",
+          "hit",
+          "gift",
+          "first",
+          "good"
+        ]
+      },
+      {
+        "topic_id": 2,
+        "top_terms": [
+          "according",
+          "user",
+          "site",
+          "video",
+          "new",
+          "taylor",
+          "swift",
+          "know",
+          "gemini",
+          "bluesky"
+        ]
+      },
+      {
+        "topic_id": 3,
+        "top_terms": [
+          "article",
+          "story",
+          "shit",
+          "day",
+          "think",
+          "folk",
+          "reply",
+          "thank",
+          "actually",
+          "found"
+        ]
+      },
+      {
+        "topic_id": 4,
+        "top_terms": [
+          "report",
+          "tech",
+          "openai",
+          "medium",
+          "company",
+          "news",
+          "love",
+          "social",
+          "say",
+          "google"
+        ]
+      },
+      {
+        "topic_id": 5,
+        "top_terms": [
+          "podcast",
+          "story",
+          "people",
+          "report",
+          "think",
+          "article",
+          "tech",
+          "carr",
+          "news",
+          "meta"
+        ]
+      },
+      {
+        "topic_id": 6,
+        "top_terms": [
+          "article",
+          "game",
+          "apple",
+          "people",
+          "read",
+          "every",
+          "sound",
+          "first",
+          "comment",
+          "look"
+        ]
+      },
+      {
+        "topic_id": 7,
+        "top_terms": [
+          "new",
+          "xbox",
+          "year",
+          "review",
+          "according",
+          "article",
+          "good",
+          "time",
+          "model",
+          "story"
+        ]
+      }
+    ]
+  },
+  "top_distinctive_keywords": {
+    "wired": [
+      {
+        "token": "magazine",
+        "wired_count": 315,
+        "verge_count": 0
+      },
+      {
+        "token": "report",
+        "wired_count": 219,
+        "verge_count": 100
+      },
+      {
+        "token": "new",
+        "wired_count": 137,
+        "verge_count": 73
+      },
+      {
+        "token": "doge",
+        "wired_count": 61,
+        "verge_count": 0
+      },
+      {
+        "token": "trump",
+        "wired_count": 95,
+        "verge_count": 35
+      },
+      {
+        "token": "ice",
+        "wired_count": 60,
+        "verge_count": 0
+      },
+      {
+        "token": "government",
+        "wired_count": 55,
+        "verge_count": 0
+      },
+      {
+        "token": "data",
+        "wired_count": 80,
+        "verge_count": 29
+      },
+      {
+        "token": "reporting",
+        "wired_count": 50,
+        "verge_count": 0
+      },
+      {
+        "token": "best",
+        "wired_count": 71,
+        "verge_count": 22
+      },
+      {
+        "token": "agent",
+        "wired_count": 48,
+        "verge_count": 0
+      },
+      {
+        "token": "anthropic",
+        "wired_count": 45,
+        "verge_count": 0
+      },
+      {
+        "token": "elon",
+        "wired_count": 45,
+        "verge_count": 0
+      },
+      {
+        "token": "code",
+        "wired_count": 44,
+        "verge_count": 0
+      },
+      {
+        "token": "security",
+        "wired_count": 43,
+        "verge_count": 0
+      }
+    ],
+    "verge": [
+      {
+        "token": "article",
+        "verge_count": 375,
+        "wired_count": 119
+      },
+      {
+        "token": "according",
+        "verge_count": 97,
+        "wired_count": 0
+      },
+      {
+        "token": "link",
+        "verge_count": 61,
+        "wired_count": 0
+      },
+      {
+        "token": "xbox",
+        "verge_count": 49,
+        "wired_count": 0
+      },
+      {
+        "token": "game",
+        "verge_count": 44,
+        "wired_count": 0
+      },
+      {
+        "token": "need",
+        "verge_count": 39,
+        "wired_count": 0
+      },
+      {
+        "token": "love",
+        "verge_count": 33,
+        "wired_count": 0
+      },
+      {
+        "token": "microsoft",
+        "verge_count": 32,
+        "wired_count": 0
+      },
+      {
+        "token": "podcast",
+        "verge_count": 32,
+        "wired_count": 0
+      },
+      {
+        "token": "every",
+        "verge_count": 32,
+        "wired_count": 0
+      },
+      {
+        "token": "search",
+        "verge_count": 31,
+        "wired_count": 0
+      },
+      {
+        "token": "next",
+        "verge_count": 31,
+        "wired_count": 0
+      },
+      {
+        "token": "week",
+        "verge_count": 30,
+        "wired_count": 0
+      },
+      {
+        "token": "actually",
+        "verge_count": 30,
+        "wired_count": 0
+      },
+      {
+        "token": "platform",
+        "verge_count": 30,
+        "wired_count": 0
+      }
+    ]
+  },
+  "co_occurrence_top_central": {
+    "wired": [
+      {
+        "token": "report",
+        "degree_centrality": 0.7931034482758621,
+        "frequency": 213
+      },
+      {
+        "token": "magazine",
+        "degree_centrality": 0.7758620689655172,
+        "frequency": 310
+      },
+      {
+        "token": "new",
+        "degree_centrality": 0.6206896551724138,
+        "frequency": 123
+      },
+      {
+        "token": "company",
+        "degree_centrality": 0.3620689655172414,
+        "frequency": 79
+      },
+      {
+        "token": "story",
+        "degree_centrality": 0.3448275862068966,
+        "frequency": 103
+      },
+      {
+        "token": "article",
+        "degree_centrality": 0.3448275862068966,
+        "frequency": 107
+      },
+      {
+        "token": "tech",
+        "degree_centrality": 0.27586206896551724,
+        "frequency": 64
+      },
+      {
+        "token": "data",
+        "degree_centrality": 0.27586206896551724,
+        "frequency": 70
+      },
+      {
+        "token": "read",
+        "degree_centrality": 0.25862068965517243,
+        "frequency": 75
+      },
+      {
+        "token": "musk",
+        "degree_centrality": 0.24137931034482757,
+        "frequency": 51
+      }
+    ],
+    "verge": [
+      {
+        "token": "article",
+        "degree_centrality": 0.864406779661017,
+        "frequency": 350
+      },
+      {
+        "token": "report",
+        "degree_centrality": 0.4406779661016949,
+        "frequency": 98
+      },
+      {
+        "token": "according",
+        "degree_centrality": 0.4406779661016949,
+        "frequency": 95
+      },
+      {
+        "token": "new",
+        "degree_centrality": 0.3389830508474576,
+        "frequency": 69
+      },
+      {
+        "token": "time",
+        "degree_centrality": 0.3220338983050847,
+        "frequency": 56
+      },
+      {
+        "token": "people",
+        "degree_centrality": 0.2711864406779661,
+        "frequency": 65
+      },
+      {
+        "token": "company",
+        "degree_centrality": 0.2711864406779661,
+        "frequency": 55
+      },
+      {
+        "token": "tech",
+        "degree_centrality": 0.2542372881355932,
+        "frequency": 59
+      },
+      {
+        "token": "story",
+        "degree_centrality": 0.2542372881355932,
+        "frequency": 86
+      },
+      {
+        "token": "read",
+        "degree_centrality": 0.23728813559322035,
+        "frequency": 79
+      }
+    ]
+  },
+  "method_notes": [
+    "LDA fit on text_clean_no_brand (brand tokens removed so the topic captures the discourse, not the brand name).",
+    "Vocabulary filtered to tokens appearing in >=5 posts and <=60% of posts.",
+    "k chosen by maximising c_v coherence over k in {4,5,6,7,8}.",
+    "Each post assigned its highest-probability topic via get_document_topics().",
+    "Co-occurrence edges = number of posts in which both tokens appear together (top-60 vocab, edge weight >= 4)."
+  ]
+}

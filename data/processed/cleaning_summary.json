@@ -1,0 +1,56 @@
+{
+  "wired": {
+    "filtering_audit": {
+      "start": 1758,
+      "after_language": 1758,
+      "after_uri_dedup": 1758,
+      "after_author_text_dedup": 1726,
+      "after_min_length": 1625,
+      "after_spam_filter": 1625,
+      "after_timestamp_parse": 1578,
+      "final": 1578
+    },
+    "n_posts_final": 1578,
+    "n_unique_authors_final": 895,
+    "n_profiles_final": 895,
+    "date_range": [
+      "2023-12-13 16:21:44.692000+00:00",
+      "2026-04-30 02:28:41.355146+00:00"
+    ],
+    "median_word_count": 12.0,
+    "reply_share": 0.2002534854245881
+  },
+  "verge": {
+    "filtering_audit": {
+      "start": 1245,
+      "after_language": 1245,
+      "after_uri_dedup": 1245,
+      "after_author_text_dedup": 1241,
+      "after_min_length": 1162,
+      "after_spam_filter": 1162,
+      "after_timestamp_parse": 1153,
+      "final": 1153
+    },
+    "n_posts_final": 1153,
+    "n_unique_authors_final": 898,
+    "n_profiles_final": 898,
+    "date_range": [
+      "2023-07-03 17:39:11.855000+00:00",
+      "2026-04-30 07:01:55.333000+00:00"
+    ],
+    "median_word_count": 14.0,
+    "reply_share": 0.36600173460537727
+  },
+  "cleaning_steps_applied": [
+    "URL/mention/hashtag extraction (preserved as separate columns)",
+    "Light-clean for sentiment (URLs/mentions/hashtags stripped, casing kept)",
+    "Aggressive clean for keyword/topic analysis (lowercase, no punct/digits/single letters, NLTK stopwords + custom stopwords, lemmatised via TextBlob)",
+    "Brand-name stopword variant for topic modelling (text_clean_no_brand)",
+    "Brand-relevance filter to remove idiom false positives ('on the verge of', 'fully wired', etc.)",
+    "English-language filter (langs contains 'en')",
+    "URI-level deduplication",
+    "Same-author/same-text deduplication (repost spam)",
+    "Minimum length filter (>=3 cleaned tokens)",
+    "Author-level repeated-content spam filter (>5 identical posts)"
+  ]
+}

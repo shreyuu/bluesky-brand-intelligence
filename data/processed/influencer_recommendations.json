@@ -1,0 +1,49 @@
+{
+  "wired": {
+    "brand": "Wired",
+    "recommended_handle": "thiccreese.bsky.social",
+    "display_name": "Reece",
+    "author_did": "did:plc:eewrv6igoxnyqfo3ftj6tjc7",
+    "followers_count": 18267,
+    "brand_posts": 8,
+    "engagement_per_post": 58.125,
+    "mean_compound_polarity": 0.514,
+    "pct_positive_posts": 87.5,
+    "eigenvector_centrality": 0.16479,
+    "composite_score": 0.5217,
+    "reason": "Selected as the highest-scoring qualifying micro-influencer after filtering for micro-scale reach, repeated brand relevance, positive sentiment, engagement per post, account age, and network centrality."
+  },
+  "verge": {
+    "brand": "The Verge",
+    "recommended_handle": "papapishu.bsky.social",
+    "display_name": "Chris Person",
+    "author_did": "did:plc:k6kg5ccozcphfcmp4zyx3s64",
+    "followers_count": 30473,
+    "brand_posts": 3,
+    "engagement_per_post": 214.0,
+    "mean_compound_polarity": 0.144,
+    "pct_positive_posts": 33.33,
+    "eigenvector_centrality": 0.0,
+    "composite_score": 0.4345,
+    "reason": "Selected as the highest-scoring qualifying micro-influencer after filtering for micro-scale reach, repeated brand relevance, positive sentiment, engagement per post, account age, and network centrality."
+  },
+  "filter_criteria": {
+    "followers_count": "1,000 to 100,000",
+    "minimum_brand_posts": 2,
+    "mean_compound_polarity": "> 0",
+    "minimum_engagement_per_post": 2,
+    "minimum_account_age_days": 90
+  },
+  "score_weights": {
+    "engagement_per_post_log": 0.35,
+    "eigenvector_centrality": 0.25,
+    "mean_brand_sentiment": 0.2,
+    "brand_post_volume_log": 0.1,
+    "followers_log": 0.1
+  },
+  "method_notes": [
+    "Network constructed from explicit @mentions plus reply-context ties; reply posts weighted double as they signal endorsement-with-amplification.",
+    "Eigenvector centrality used over degree centrality because it captures connection to other influential users, not just raw mention count.",
+    "Sentiment uses VADER mean compound from Phase 5 - measures sentiment of the user's posts about the brand, not arbitrary topics."
+  ]
+}
